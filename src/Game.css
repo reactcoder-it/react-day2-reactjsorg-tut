@@ -5,3 +5,9 @@
 .game-info {
     margin-left: 20px;
 }
+.game-info li button:focus {
+    font-weight: 700;
+}
+.game-info li button:active {
+    font-weight: 700;
+}

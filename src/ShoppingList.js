@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React, {Component} from 'react';
 
 class ShoppingList extends Component {
     render() {
@@ -11,8 +11,8 @@ class ShoppingList extends Component {
                     <li>Oculus</li>
                 </ul>
             </div>
-        )
+        );
     }
 }
 
-export default ShoppingList
+export default ShoppingList;
